@@ -1,0 +1,42 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.borderPane{
+	-fx-background-color: #FFD700;
+}
+
+.userButtons{
+	-fx-background-color: #50C878;
+	-fx-text-fill: #FF1493;
+	-fx-font-weight: bold;
+	-fx-background-radius: 50.0;
+	-fx-pref-width:100.0px;
+    -fx-pref-height:100.0px;   
+	
+}
+
+.reels{
+	-fx-background-color: #D3D3D3;
+	-fx-text-fill: #FFFFFF;
+	-fx-font-weight: bold;
+	-fx-background-radius: 50.0;
+	-fx-pref-width:130.0px;
+    -fx-pref-height:130.0px;
+    
+}
+.transparetButtons{
+	-fx-background-color: #FF0000;
+	-fx-background-radius: 50.0;
+	
+}
+
+.labelButton{
+	-fx-text-fill: #F8F8FF;
+	-fx-font-weight: bold;
+}
+
+.saveButton{
+	-fx-background-color: #FF0000;
+	-fx-border-style:solid; 
+	-fx-font-weight: bold;
+	-fx-text-fill:#000000;
+	
+}
